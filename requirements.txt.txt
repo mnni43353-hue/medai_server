@@ -1,0 +1,10 @@
+flask==2.3.2
+gunicorn==20.1.0
+torch
+torchvision
+monai
+transformers
+pillow
+numpy
+opencv-python
+pydicom
